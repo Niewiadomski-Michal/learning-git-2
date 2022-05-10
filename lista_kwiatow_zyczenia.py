@@ -5,3 +5,4 @@ lista_kwiatow = {
 
 print (lista_kwiatow)
 print ("Aha, zapomniałbym... 'Wszystkiego Najlepszego Patryk'")
+print ("o co tutaj chodzi?")
